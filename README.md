@@ -24,3 +24,23 @@ The only mode of interaction for deaf-mute people is sign language. The problem 
 
 ## Implementation
 ![Test Image](implement.png)
+
+This system would involve 4 steps:
+
+- Hand detection
+- Fingers and Palm Segmentation.
+- Finger Recognition
+- Hand Gesture Recognition
+
+2. **Label the gestures using OpenCV**
+Captures images of hands using VideoCapture and frame function which uses web cam feed.
+
+3. **Adding variations**
+Captures images at different angles and rotations and flipping the images matches them with labels.
+
+4. **Store in database** 
+Consists of captured gestures based on American Sign Language. 
+
+5. **Train the model** - using Keras
+
+6. **Testing** - Testing of the model with real-time gesture use.
