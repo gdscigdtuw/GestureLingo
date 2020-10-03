@@ -23,3 +23,4 @@ The only mode of interaction for deaf-mute people is sign language. The problem 
 2. Background subtraction method by detecting the color of skin using HSV (Hue Saturation Value) model.
 
 ## Implementation
+![Test Image](implement.png)
