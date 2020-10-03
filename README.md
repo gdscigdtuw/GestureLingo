@@ -17,3 +17,11 @@ The only mode of interaction for deaf-mute people is sign language. The problem 
 - OpenCV
 - MySQL
 - Text-to-Speech API
+
+## Algorithms used
+1. Rule Based Classifier
+2. Background subtraction method by detecting the color of skin using HSV (Hue Saturation Value) model.
+
+## Implementation
+
+
