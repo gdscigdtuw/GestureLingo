@@ -1,4 +1,4 @@
-# SignLingo
+# GestureLingo
 # A Sign Language Recognition System for Speech-Impaired People
 
 ## Aim
@@ -25,7 +25,7 @@ The only mode of interaction for deaf-mute people is sign language. The problem 
 ## Implementation
 ![Test Image](implement.png)
 
-This system would involve 4 steps:
+1. This system would involve 4 steps:
 
 - Hand detection
 - Fingers and Palm Segmentation.
