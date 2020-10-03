@@ -9,3 +9,11 @@ The main objective is to translate sign language to text/speech. It provides a h
 
 ## Problem definition
 The only mode of interaction for deaf-mute people is sign language. The problem is not confined only to a deaf-mute person who is unable to hear or speak, but another problem is lack of awareness of deaf culture by normal people. Majority of hearing people have either no/little knowledge or experience of sign language . There are also more than 300 sign languages and it is hard for a normal person to understand and become used to these languages. Hence it creates a communication barrier between the disabled and society.
+
+## Technology being used
+- Python 3.7
+- TensorFlow
+- Keras
+- OpenCV
+- MySQL
+- Text-to-Speech API
