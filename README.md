@@ -44,3 +44,6 @@ Consists of captured gestures based on American Sign Language.
 5. **Train the model** - using Keras
 
 6. **Testing** - Testing of the model with real-time gesture use.
+
+### For more information
+Refer to this video (https://youtu.be/DAqnezqqpPA)
